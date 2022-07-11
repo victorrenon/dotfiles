@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = victor.renon@gmail.com
+	name = Victor Renon
